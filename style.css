@@ -257,4 +257,49 @@ margin-left: 10px;
     height: 22px;
     margin-top: -10px;
 }
+.Template-div{
+    width: 1140px;
+    height: 697px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    border-radius: 14px;
+    padding: 150px, 71px;
+}
+.p-5{
+    width: 516px;
+    height: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 50px;
+    font-weight: bold;
+}
+.p-6{
+    width: 487px;
+    height: 22px;
+      margin-left: auto;
+      margin-right: auto;
+}
+.btn-4{
+width: 195px;
+height: 48px;
+color: white;
+background-color: #4E47FF;
+display: block;
+margin-left: auto;
+margin-right: auto;
+border-radius: 10px;
+border: none;
+font-size: 16px;
 
+}
+
+.wc-big{
+    width: 840px;
+    height: 365px;
+    border-radius: 48px;
+  align-items: center;
+  margin-left: 10%;
+  margin-top: 10px;
+  
+}
